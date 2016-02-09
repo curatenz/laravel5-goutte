@@ -1,4 +1,4 @@
-Goutte Laravel4 package 
+Goutte Laravel5 package 
 =======================
 
 more info:
@@ -7,12 +7,12 @@ https://github.com/fabpot/Goutte
 
 # Installation
 
-Open up the Laravel 4 `composer.json` file and add my repository fork
+Open up the Laravel 5 `composer.json` file and add our repository fork
 
 ~~~json
 "repositories": [
     {
-      "url": "https://github.com/pelletiermaxime/laravel4-goutte.git",
+      "url": "https://github.com/curatenz/laravel5-goutte.git",
       "type": "git"
     }
   ],
@@ -23,7 +23,7 @@ add the `elvedia/goutte` package to the `require` section:
 ~~~json
 {
   "require": {
-    "laravel/framework": "4.0.*",
+    "laravel/framework": "5.2.*",
     ...
     "elvedia/goutte": "1.0.*"
   }
