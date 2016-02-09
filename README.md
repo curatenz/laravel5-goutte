@@ -73,4 +73,4 @@ The `aliases` array should now look like the snippet below:
 ),
 ~~~
 
-Goutte Laravel 4 is now ready to be used in your web application!
+Goutte Laravel 5 is now ready to be used in your web application!
