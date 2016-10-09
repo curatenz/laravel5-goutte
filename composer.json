@@ -16,6 +16,5 @@
         "psr-0": {
             "Elvedia\\Goutte": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
